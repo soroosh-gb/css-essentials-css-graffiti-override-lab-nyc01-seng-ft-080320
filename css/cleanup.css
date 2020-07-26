@@ -18,10 +18,7 @@
   display: none;
 }
 
-#wall .parent + :last-child #tag-6{
-  display: none;
-}
 
-#wall div.parent div + div:last-child #tag-6 {
+div#wall div.parent div + div:last-child div#tag-6 {
   display: none;
 }
