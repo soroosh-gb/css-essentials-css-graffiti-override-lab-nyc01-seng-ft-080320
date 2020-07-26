@@ -22,3 +22,6 @@
   display: none;
 }
 
+div#wall div.parent div + div:last-child div#tag-6 {
+  display: none;
+}
